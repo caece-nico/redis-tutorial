@@ -3,9 +3,23 @@
 ## Indice.
 
 1. [Introduction](#1.-introduction)
+2. [Week-1](#2.-week-1)
+    [Keys]()
+    [Documentacion]()
 7. [Bibliografia](#7.-bibliografia)
 
 ## 1. Introduction
+
+## 2. Week 1
+
+### 2.1 Keys
+
+### 2.6 Documentacion
+
+[Documentacion keys](https://redis.io/docs/latest/commands/?group=generic)
+
+[Glob programming](https://en.wikipedia.org/wiki/Glob_(programming))
+
 
 ## 7. Bibliografia
 
